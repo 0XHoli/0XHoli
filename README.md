@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://th.bing.com/th/id/R.105510993fc605ad9f664cf75010c582?rik=oGuKJoP2Gk6GEw&pid=ImgRaw&r=0" width="500"/>
+  <img src="https://www.vegstar.com.br/wp-content/uploads/2022/06/soc-security-operations-center.jpg" width="500"/>
 </div>
 
 
