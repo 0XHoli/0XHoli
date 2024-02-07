@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://2.bp.blogspot.com/-v5-vuQfHMqs/W7zocngKz0I/AAAAAAAAr0g/aN3WJmIBIaIgtyaspfCoUcmRdlKDLmbhQCPcBGAYYCw/s320/cyber.gif)" width="500"/>
+</div>
+
+
 **About Me**
 
 🛡️ Cybersecurity Analyst | ☁️ Cloud Security Enthusiast | 🎓 CompTIA Cybersecurity Analyst (CySA+) certified
