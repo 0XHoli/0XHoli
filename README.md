@@ -1,4 +1,4 @@
-**Introduction**
+**About Me**
 
 🛡️ Cybersecurity Analyst | ☁️ Cloud Security Enthusiast | 🎓 CompTIA Cybersecurity Analyst (CySA+) certified
 Hey there! I'm Snehal, a passionate cybersecurity analyst with a knack for defensive security strategies and cloud security. With a CompTIA Cybersecurity Analyst (CySA+) certification under my belt, I'm constantly exploring new challenges to enhance my skills.
