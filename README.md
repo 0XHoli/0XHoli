@@ -14,6 +14,10 @@ Hey there! I'm Snehal, a passionate cybersecurity analyst with a knack for defen
 
 I believe in hands-on learning, and you'll often find me exploring new cybersecurity concepts on platforms like TryHackMe. I'll do my best to share my learning journey here on GitHub, offering insights, challenges, and solutions as I navigate the ever-evolving landscape of cybersecurity.
 
+**TryHackMe Profile**
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0xHoli.png" alt="TryHackMe" width="500"/>
+
 **Skills**
 
 Incident Triage | Incident Handling | Incident Investigation
@@ -22,10 +26,6 @@ Vulnerability Management: Nessus | Qualys
 Microsoft Azure | Microsoft Defender XDR | Microsoft Enterprise ID
 Log Analysis: Elastic | Splunk | Sentinel
 Cloud Security
-
-**TryHackMe Profile**
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/0xHoli.png" alt="TryHackMe">
 
 **Let's Connect!**
 
